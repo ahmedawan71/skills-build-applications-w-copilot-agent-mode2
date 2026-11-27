@@ -1,6 +1,8 @@
 import { CapabilityCard } from './CapabilityCard.js';
 import { useApiResource } from '../api/useApiResource.js';
 
+/*second push */
+
 type WorkoutSuggestion = {
   _id?: string;
   title: string;
